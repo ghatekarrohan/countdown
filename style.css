@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #152614;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    background-color: #119822 !important;
+    text-align: center;
+    color: #ffff !important;
+    
+}
+.card{
+    margin-top: 15%;
+    height: 100px;
+    width: 600px;
+    background-color: #119822;
+    color: #ffff;
+    text-align: center;
+    font-size: 60px;
+    box-shadow: 5px 10px 10px#31cb00;
+}
